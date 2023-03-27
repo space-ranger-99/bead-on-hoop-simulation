@@ -52,7 +52,6 @@ function dydt = bead_on_hoop_dynamics(~, y, params)
         params.hoop_radius * sin(y(1)) - params.bead_mass * ...
         params.hoop_radius ^ 2 * params.hoop_angular_velocity ^ 2 * ...
         cos(y(1)) * sin(y(1));
-
     dydt = [dtheta_dt; dp_dt];
 end
 
