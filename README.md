@@ -1,4 +1,4 @@
-# Bead on Hoop Simulation
+# :radio_button: Bead on Hoop Simulation
 
 This repository contains a MATLAB script `bead_on_hoop_simulation.m` that simulates the dynamics of a bead constrained to move on a rotating hoop, subject to gravity. The script defines the system parameters, solves the bead-on-hoop dynamics, and plots the results for the angle of the bead and the Hamiltonian over time.
 
