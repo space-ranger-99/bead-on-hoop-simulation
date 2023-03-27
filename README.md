@@ -19,6 +19,8 @@ To use the script, simply call the function `bead_on_hoop_dynamics()` in MATLAB.
 bead_on_hoop_simulation()
 ```
 
+![Simulation Results](bead_on_hoop_simulation_results.png)
+
 ### Dependencies
 
 The script requires MATLAB and the ODE45 solver, which is included in the core MATLAB package.
