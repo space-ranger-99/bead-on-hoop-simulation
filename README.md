@@ -30,6 +30,9 @@ The script requires MATLAB and the ODE45 solver, which is included in the core M
 **Alexander Little**
 
 🏫 Toronto Metropolitan University
+
 📧 corbyn.little@torontomu.ca
+
 💼 [LinkedIn](https://www.linkedin.com/in/aclittle/)
+
 📚 [GitHub](https://github.com/space-ranger-99)
